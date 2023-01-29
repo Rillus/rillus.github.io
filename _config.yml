@@ -1,4 +1,10 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Riley Ramone 
 description: Riley Ramone is a fusion of organic matter and technology. Approach with caution.
 markdown: kramdown
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/rillus" }
+    - { platform: mastodon, user_url: "https://ding.so/@riley" }
+    - { platform: twitter, user_url: "https://twitter.com/rillus" }
