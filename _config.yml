@@ -2,6 +2,11 @@ theme: minima
 title: Riley Ramone 
 description: Riley Ramone is a fusion of organic matter and technology. Approach with caution.
 markdown: kramdown
+header_pages:
+  - index.md
+  - README.md
+  - page 2.md
+  - index2.md
 minima:
   skin: dark
   social_links:
