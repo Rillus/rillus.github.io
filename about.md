@@ -25,9 +25,9 @@ and ensure the path to Ruby was in my PATH variables in  my `.zshrc` file
 
 When I add a new file, I can simply run:
 ```bash
-cd Documents/Obsidian\ Vault/rillus.github.io
+cd ~/Documents/Obsidian\ Vault/rillus.github.io
 git add .
-git commit -m "adds new file"
+git commit -m "Blog update"
 git push origin master
 ```
 
