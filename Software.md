@@ -87,6 +87,12 @@ Surge XT
 Dexed  
 Vital
 
+## Music licensing
+Trovo - big, but have stopped paying creators
+Shockwave Sound - buyout exclusive model
+Crucial Music - connects artists to TV/film/advertising
+Fliktrax - music library for people to search when they want to add it to their media.
+
 
 # Geography
 [https://app.shadowmap.org/?vq=2&zoom=15&lng=-0.02413&lat=51.59315&time=1621958806385](https://app.shadowmap.org/?vq=2&zoom=15&lng=-0.02413&lat=51.59315&time=1621958806385) - shadow map of building shadows...  
