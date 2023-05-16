@@ -1,5 +1,5 @@
 title: Riley Ramone 
-description: Riley Ramone is a fusion of organic matter and technology. Approach with caution.
+description: Riley Ramone is a web developer, pixel junkie, ticket scientist and leisure pirate.
 markdown: kramdown
 header_pages:
   - index.md
@@ -9,5 +9,5 @@ minima:
   skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/rillus" }
-    - { platform: mastodon, user_url: "https://ding.so/@riley" }
+    - { platform: mastodon, user_url: "https://indieweb.social/@riley" }
     - { platform: twitter, user_url: "https://twitter.com/rillus" }
