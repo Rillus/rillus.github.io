@@ -21,7 +21,8 @@ Piskel - easy animated art (gifs?)
 
 ## Research
 [Answerthepublic.com](http://answerthepublic.com/) - what people think about a subject or brand.  
-
+[alsoasked.com](https://alsoasked.com) - similar!
+![[alsoasked-best-ticketing-site.png]]
 # 3D
 [Spline.design](http://spline.design/) - 3d builder for the web  
 Vectary - 3d design platform, browser based  
@@ -102,4 +103,7 @@ Fliktrax - music library for people to search when they want to add it to their 
 
 # Home automation  
 [https://www.theverge.com/2021/9/16/22678088/home-assistant-amber-smart-home-hub-specs-release-date-price](https://www.theverge.com/2021/9/16/22678088/home-assistant-amber-smart-home-hub-specs-release-date-price)  
-    
+
+---
+Generate a broken down todo list to get you to an end-goal
+https://goblin.tools/
