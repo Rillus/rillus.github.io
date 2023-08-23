@@ -35,17 +35,20 @@ Here I'll give you a basic example of an HTML page:
 
 The above will probably render exactly what you think it will - a page that looks a little like this:
 
+
+
 ---
 My navigation
 # Article heading
-Paragraph text. *Emphasised.* **Strong text.** 
+Paragraph text. *Emphasised.* **Strong text.**
+
 [A footer link]()
 
 ---
 
-You'll see here that a browser without any styling will apply some defaults to tags: Headings are bold and large, paragraphs are "regular" text, em tags produce italicised text and strong tags make bold text... And of course links are underlined, give a different cursor when hovered, can be tabbed to and are clickable.
 
----
+
+You'll see here that a browser without any styling will apply some defaults to tags: Headings are bold and large, paragraphs are "regular" text, em tags produce italicised text and strong tags make bold text... And of course links are underlined, give a different cursor when hovered, can be tabbed to and are clickable.
 ## Activity
 A good exercise to do at this stage might be to take a newspaper, magazine article or even flyer.
 - Using a highlighter, mark sections with the tag you think most closely matches the intended purpose of the text: paragraphs (`p`), headings (`h1`, `h2`, `h3` ...). Is there a top `header` area? are there phone numbers or web addresses that could be links (`a`)?
