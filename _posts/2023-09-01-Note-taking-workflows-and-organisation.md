@@ -1,3 +1,4 @@
+![](/assets/notes.jpg)
 There's so much discourse around note-taking at the moment, I thought I'd throw my own workflow into the mix to further muddy the waters.
 
 For a few years I've been trying to work out the best way to manage my thoughts, projects and knowledge in a way that's accessible and archivable. The archivability aspect is not important on it's own, as much as being able to access the archive and find what I need easily, but not have it clutter my current thoughts and in-progress projects - otherwise I can say I've achieved the archiving by simply forgetting everything I ever knew!
