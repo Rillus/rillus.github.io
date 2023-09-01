@@ -17,6 +17,7 @@ To me, there are a few main advantages:
 I started devouring articles on PKM and note-taking and organisational strategies and I currently have a system is place that is a combination of several different styles.
 ### [Zettelkasten](https://zettelkasten.de/posts/overview/)
 Zettelkasten just means "note box" in German. This is a great place to start when you begin taking notes in a new system. The concept is simply "just take notes then put them in the box", over time you may notice themes develop, at which point you can start to add structure. It is based on the work of Niklas Luhmann who created his own numbering system when linking notes together, but we can simply use links in our note apps.
+One of the main ways in which I add notes to my system is via "Daily notes". In Obsidian (and a lot of other apps) you'll have a note for the day. As I have meetings or ideas, I can add to this note quickly and without having to think about where it goes. I can later file it away, or copy sections to other notes.
 ### [PARA](https://fortelabs.com/blog/para/)
 "The PARA method", brainchild of Tiago Forte, and subject of his book of the same name, is all the rage and claims to be the best way to organise your digital footprint by breaking up your notes into broad sections:
 #### Projects
@@ -28,7 +29,7 @@ This is defined by Forte as "things you're interested in learning about", but I 
 #### Archive
 Anything from the above that you're done with for now, like your failed hovercraft book idea.
 ### [Johnny.Decimal](https://johnnydecimal.com/)
-I must have ended up at the above site from a link in a PKM article at some point, and I'm not sure how widely used it is. The short of it is that you assign numbers to your folders and files, which in turn gives them an address. This address is reasonably unchanging, and because of this your files appear in a predictable and logical ordering.
+I must have ended up at the above site from a link in a PKM article at some point, and I'm not sure how widely used it is. The short of it is that you assign numbers to your folders and files, which gives them an address e.g 01.02 for the 2nd item in the first folder. This address is reasonably unchanging, and because of this your files appear in a predictable and logical ordering.
 
 I've not followed the system very closely, but my implementation (by combining with the PARA method) looks like this:
 ```
@@ -49,8 +50,9 @@ I've not followed the system very closely, but my implementation (by combining w
 04. Archive	
 ```
 
+I spend most of my time in Projects at the top, and can find things I'm currently working on very quickly, and the further down the folder/file list you go, the less used an item is likely to be. For oft-used files, you'll start to remember the address for quickly pulling up the file via command palette shortcuts.
 ## Anything else?
-In addition to the above structure, I have a couple of other notable folders (although perhaps not relevant for everyone!):
+In addition to the above structure, I have a couple of other notable folders (although probably not relevant for everyone!):
 ### Kerouac
 I use Obsidian exclusively on desktop (I don't like paying for anything if I can help it, and in order to sync with Obsidian on mobile, I would need to pay for a subscription to keep a "vault" in the cloud), so in order to be able to take notes on my mobile, and have them appear in Obsidian, I use an app called [GitJournal](https://gitjournal.io/). This posts notes to a Github repo when I type them into my phone. I can then `git pull` locally to sync this to my desktop, and file them accordingly. This also works in reverse if I commit to the repo from my desktop, it picks it up on my mobile. The set-up took a little experimentation, so if that's something you're interested in, [let me know](mailto:riley@ramone.co) and I'll expound on it in a future blog post.
 ### rillus.github.io
@@ -60,4 +62,4 @@ I don't think this is my PKM's final form (and perhaps a final form for the digi
 
 I hope some of this has been useful, and at least given you a jumping off point for inspiration for your own notes. Of course, you'll need to create something that works for you personally, and the format may differ depending on the subjects you're interested or your own goals. Equally, Obsidian may not be the ultimate tool for you - if you find it too much of a blank canvas (which some people have said it is, prior to establishing your own structure), have a search around for other options.
 
-Mark my words well, and everything will be all write.
+Mark these words, and everything will be all write.
