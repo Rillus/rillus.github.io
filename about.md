@@ -32,3 +32,9 @@ git push origin master
 ```
 
 Any pushes to `master` branch will trigger a new build.deploy via Github Actions.
+
+## Debugging
+If the site doesn't appear to update
+1. Ensure you pushed the new article!
+2. Check Github Actions to ensure the build ran
+3. Ensure the new blog filename doesn't contain spaces (format: YYYY-MM-DD-title-goes-here - this creates a blog with a title of "Title Goes Here", with that date)
