@@ -12,6 +12,7 @@ To me, there are a few main advantages:
 - Write in markdown. Markdown is a simple way to style text using basic characters, so you don't need to highlight text and italicise it, you can simply wrap it in asterisks and that will do the job.
 - The notes themselves are portable. The use of markdown means all notes are plain text and so can be ported to another platform easily if you ever decided Obsidian wasn't for you.
 - The editor itself is basically an opensource web app. For me, a web developer, this is great, as the platform itself is editable and you can add HTML or CSS to it for custom styling or functionality. It also thus has a great existing range of community plugins, so the functionality is extensible.
+ 
 # Organising your notes
 I started devouring articles on PKM and note-taking and organisational strategies and I currently have a system is place that is a combination of several different styles.
 ## [Zettelkasten](https://zettelkasten.de/posts/overview/)
