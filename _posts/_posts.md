@@ -6,5 +6,6 @@
 - [[2023-07-18-Red-Room-on-tour]]
 - [[2023-08-22-HTML-introduction]]
 - [[2023-09-01-Note-taking-workflows-and-organisation]]
+- [[2023-12-24-ai-and-the-nature-of-labour]]
 
 %% End Waypoint %%
