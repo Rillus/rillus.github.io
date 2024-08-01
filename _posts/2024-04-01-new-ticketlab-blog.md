@@ -1,0 +1,2 @@
+It's been far too long since I wrote a blog for [Ticketlab](https://ticketlab.co.uk)
+Here's a new one that looks at **[How to Sell Out Your Event: Data-Driven Strategies to Maximise Ticket Sales](https://blog.ticketlab.co.uk/how-to-sell-out-your-event-data-driven-strategies-to-maximise-ticket-sales/)**
