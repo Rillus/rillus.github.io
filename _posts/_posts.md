@@ -11,6 +11,6 @@
 - [[2024-06-19-glasto-app]]
 - [[2024-07-09-john-lewis-hackathon]]
 - [[2024-10-30-Data-Science-Festival-Oktoberfest]]
-- [[2024-10-30-Ocado-Fail-Fast-Learn-Faster]]
+- [[2024-10-30-DSF2024-Ocado-Experimentation]]
 
 %% End Waypoint %%

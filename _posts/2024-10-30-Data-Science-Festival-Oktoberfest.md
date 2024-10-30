@@ -4,4 +4,4 @@ The festival took place at CodeNode, a tech-focussed venue near Liverpool Street
 
 I've only written up one of the talks so far, so here it is:
 
-- [Ocado: Fail Fast, Learn Faster](/2024-10-30-Ocado-Fail-Fast-Learn-Faster)
+- [Ocado: Fail Fast, Learn Faster](/2024/10/30/Ocado-Fail-Fast-Learn-Faster.html)
