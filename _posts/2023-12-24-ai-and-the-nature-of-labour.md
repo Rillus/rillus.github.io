@@ -10,10 +10,9 @@ It's worth noting at this point that this article has been crafted with the help
 
 ### Understanding Morris's Vision of Labour
 
-#### Anecdotal Introduction
 I'm a writer, but I confess, a somewhat lazy one. I revel in the whirlwind of ideas, in the art of communicating them, but the prospect of sitting down for hours to chisel these thoughts into articles, blogs, or stories is daunting. Over the years, my collection of written works has grown — not prodigiously, but steadily. Each piece is a testament to the struggle and joy of creation, a balance between the love of ideation and the resistance to the laborious process of writing.
 
-#### Morris's Key Ideas
+#### Morris' Key Ideas
 William Morris, an artist and a visionary, saw labour not just as a means to an end but as a vital part of life's joy and fulfilment. He distinguished sharply between "useful work" and "useless toil." Useful work imbues life with meaning and joy; it is creative and hopeful. Useless toil, conversely, is labor devoid of satisfaction, performed under compulsion, and often for the unjust benefit of others. It's not the act of working that Morris critiqued but the quality and conditions of the work itself.
 
 In a similar vein, I've found an unexpected ally in AI. Tools like ChatGPT and Bard have become my companions in the writing process, accelerating my output without diminishing the integrity of my ideas. They take on the tedious part of writing, allowing me to focus more on the creative aspect — the "useful work" that Morris advocated for. This technology has become a bridge between the joy of conceptualising and the burden of executing, reflecting Morris's vision where work, ideally, should be a source of pleasure and not just an obligation.

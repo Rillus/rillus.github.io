@@ -61,6 +61,7 @@ Pexels - photo or video for music genre
 # Illustration
 [Artbreeder.com](http://artbreeder.com/) - ai mash up images  
 Dall-e ai imagery  
+[recraft.ai](recraft.ai) - AI illustration
 
 # Email
 [Beefree.io](http://beefree.io/) - email templates  

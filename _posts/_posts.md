@@ -7,5 +7,10 @@
 - [[2023-08-22-HTML-introduction]]
 - [[2023-09-01-Note-taking-workflows-and-organisation]]
 - [[2023-12-24-ai-and-the-nature-of-labour]]
+- [[2024-04-01-new-ticketlab-blog]]
+- [[2024-06-19-glasto-app]]
+- [[2024-07-09-john-lewis-hackathon]]
+- [[2024-10-30-Data-Science-Festival-Oktoberfest]]
+- [[2024-10-30-Ocado-Fail-Fast-Learn-Faster]]
 
 %% End Waypoint %%
