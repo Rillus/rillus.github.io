@@ -26,7 +26,7 @@ A whispering on the breeze started to move through the town, like the distant hu
 
 Millie, watching from behind the counter of her diner, saw the changes first-hand. Old Man Hemmings, usually a gruff curmudgeon, now swayed gently, his eyes glazed over. Even the regulars at her counter, those pillars of the community, seemed to be losing their edges. Jimmy Gripes, once a fountain of complaints, now merely sighed, a gelatinous sheen spreading across his usually ruddy face.
 
-Fear, cold and insidious, began to grip Millie as the insidious change in the people she knew, the erosion of their very essence took hold of them. She watched as her reflection in the window began to shimmer, the edges of her face blurring. A wave of dizziness washed over her, and she stumbled back, clutching the counter for support.
+Fear, cold and wobbly, began to grip Millie as the insidious change in the people she knew, the erosion of their very essence took hold of them. She watched as her reflection in the window began to shimmer, the edges of her face blurring. A wave of dizziness washed over her, and she stumbled back, clutching the counter for support.
 
 The jello, she realised with a chilling certainty, wasn't just affecting the physical world. As it seeped into their minds, their individuality was dissolved, along with their will and their very humanity. The town, once a vibrant tapestry of unique personalities, was slowly being homogenised, reduced to a quivering mass of indistinguishable jelly.
 
