@@ -1,6 +1,6 @@
-The aroma of burnt coffee and stale pastries hung heavy in the air of Millie's Diner on this grey morning. A group of regulars huddled around a chipped Formica table, their morning routine of Nothing Much broken by the arrival of Mr. Henderson, the town's most up-to-date resident.
+The aroma of burnt coffee and stale pastries hung heavy in the air of Millie's Diner on this grey morning. A group of regulars huddled around a chipped Formica table, their morning routine of Nothing Much broken by the arrival of Mr. Henderson, Silent FIelds' most up-to-date resident.
 
-"Heard something peculiar down at the old mill," Mr. Henderson announced, his voice crackling like dry leaves. "New factory's opened up today. Says they're gonna be churning out jellied confectionary."
+"Heard something peculiar down at the old mill," Mr. Henderson announced, his voice crackling like dry leaves. "New factory's opened up today. Says they're gonna be churning out jellied confectionary. The Jalo Bean Co, they call it."
 
 The gathered septuagenarians gazed up at the recent arrival and a mixture of confusion and misgiving washed over the group.
 "Jelloed Confecktionwhat?" sputtered Jimmy Gripes, his dungaree straps straining against the effort.
