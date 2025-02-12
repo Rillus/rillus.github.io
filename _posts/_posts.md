@@ -13,5 +13,6 @@
 - [[2024-10-30-Data-Science-Festival-Oktoberfest]]
 - [[2024-10-30-DSF2024-Ocado]]
 - [[2025-01-19-sifi-jalo-bean]]
+- [[2025-02-12-react-hooks]]
 
 %% End Waypoint %%
