@@ -2,4 +2,4 @@ Every year I make a little web app to keep track of my Glastonbury lineup (yes, 
 
 [The Glasto 2024 app](https://glasto.ticketlab.co.uk)
 
-![](/assets/1719487058786.jpeg])![](/assets/1719487058988.jpeg)
+![](/assets/1719487058786.jpeg)![](/assets/1719487058988.jpeg)
