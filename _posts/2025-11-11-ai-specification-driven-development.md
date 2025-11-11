@@ -92,10 +92,12 @@ The assistant produced user stories, requirements, and Gherkin scenarios, plus a
 - Generated code for the first slice.
 - Layered on UI tweaks and validation checks, running tests between each slice.
 - Updated the spec as decisions shifted so future Riley can follow the breadcrumbs.
+
 ## Troubleshooting and continuous improvement
 - **Spot hallucinations early** by requesting smaller diffs and running lint or test suites after every change. Faster feedback, fewer surprises.
 - **Keep specs evergreen**. Amend them when the plan pivots; never leave a stale document lurking in the repo.
 - **Share learnings**. Drop standout prompts, scripts, or pitfalls into your team rule files so everyone levels up together.
+
 ## Final thoughts
 Specification Driven Development is spec-tacular! 
 
