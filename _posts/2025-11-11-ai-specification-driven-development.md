@@ -52,6 +52,7 @@ Even better, update these rule files after every significant project. Claude Cod
 3. Break them into phased, shippable tasks.
 4. Generate code plus tests for each slice.
 5. Review, iterate, ship, celebrate.
+
 ### Existing project workflow
 1. Gather requirements from tickets, conversations, analytics, or even disgruntled Slack threads.
 2. Compose a contextual prompt that joins those requirements with the relevant code paths.
