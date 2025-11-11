@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [[2020-08-03-alternative-method-for-parent-child-component-styling-in-react]]
 - [[2023-01-29-new-blog]]
 - [[2023-02-07-digital-ocean-ssl-down]]
 - [[2023-05-16-testing-file_get_contents]]
@@ -10,9 +11,11 @@
 - [[2024-04-01-new-ticketlab-blog]]
 - [[2024-06-19-glasto-app]]
 - [[2024-07-09-john-lewis-hackathon]]
+- [[2024-09-19--sustainable-startup-theory]]
 - [[2024-10-30-Data-Science-Festival-Oktoberfest]]
 - [[2024-10-30-DSF2024-Ocado]]
 - [[2025-01-19-sifi-jalo-bean]]
 - [[2025-02-12-react-hooks]]
+- [[2025-11-11-ai-specification-driven-development]]
 
 %% End Waypoint %%
