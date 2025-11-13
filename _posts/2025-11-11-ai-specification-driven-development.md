@@ -6,8 +6,6 @@ permalink: /ai-specification-driven-development/
 tags: [ai, software-delivery, tdd, john-lewis, tutorial]
 ---
 Back in October I stood in front of a room of engineers at John Lewis' head office and delivered my presentation on Specification Driven Development. After the talk, lots of people still had questions, so I promised I would share the full playbook. This is that write-up: the hands-on guide to *AI Specification Driven Development* (SDD) that I lean on every day.
-
-![Title slide for the AI Specification Driven Development talk](/assets/ai-sdd-slide-01.png)
 ## Why move beyond vibe coding?
 I adore the thrill of tossing a single line at Claude and watching a prototype appear. You probably do too. But once the project grows beyond a weekend hack, vibe coding fights back:
 
@@ -17,9 +15,6 @@ I adore the thrill of tossing a single line at Claude and watching a prototype a
 - **Future iterations stall** without a durable artefact to brief the next change.
 
 SDD fixes that by keeping the spec front and centre, with AI acting as a focused co-pilot rather than an excitable gremlin.
-
-![Slide showing the upsides of "vibe coding"](/assets/ai-sdd-slide-02.png)
-![Slide highlighting the costs of vibe coding at scale](/assets/ai-sdd-slide-03.png)
 
 ## Step 1: Anchor the work in a PRD
 Everything starts with a lightweight Product Requirements Document (PRD). Mine capture the **why** and the **what** in plain Markdown:
@@ -34,7 +29,6 @@ Kick it off yourself or let the assistant draft a first pass:
 > "Create a PRD for a Scrabble scorekeeper web app. Players enter their words, tag double/triple letter or word scores, and the app tracks scores for up to four players."
 
 ![Slide introducing the PRD as a single source of truth](/assets/ai-sdd-slide-04.png)
-![Slide outlining the anatomy of a duck PRD in Markdown](/assets/ai-sdd-slide-06.png)
 
 Revisit the PRD whenever you feel the work wobble. It is the north star and it lives beside the code.
 ## Step 2: Embrace the five core principles
@@ -43,8 +37,6 @@ Revisit the PRD whenever you feel the work wobble. It is the north star and it l
 3. **Validate it** - Write tests, run tests, do the quick manual poke.
 4. **Slice it** - Smaller tasks mean clearer prompts and fewer hallucinations.
 5. **Collaborate on it** - Pairing, async reviews, and show-and-tell keep the team in sync.
-
-![Slide showing the core principles of Specification Driven Development](/assets/ai-sdd-slide-10.png)
 
 Slip on any of these and you drift straight back to vibe town.
 ## Step 3: Warm up your model with rules
@@ -75,8 +67,6 @@ Even better, update these rule files after every significant project. Claude Cod
 5. Generate code and tests task by task, keeping feedback loops tight.
 
 ![Slide illustrating the workflow for adding features to existing projects](/assets/ai-sdd-slide-15.png)
-![Slide reinforcing the slice-it mindset during feature work](/assets/ai-sdd-slide-18.png)
-![Slide showing the spec-first loop for existing features](/assets/ai-sdd-slide-19.png)
 
 Every stage whispers the same mantra: *Slice it!* Smaller changes are easier to review, test, and ship.
 
@@ -92,9 +82,6 @@ Provide user stories, requirements, acceptance criteria in Gherkin, suggested fi
 If the change would take more than a day, touch over five files, or score above 3 on Fibonacci complexity, break it into labelled subtasks that can be shipped independently.
 ```
 
-![Slide showing the contextual prompt template for specs](/assets/ai-sdd-slide-17.png)
-![Slide showing the auto-tasker extension to the contextual prompt](/assets/ai-sdd-slide-20.png)
-
 Run this once per change, store the output in version control, and treat it as the living brief.
 ## Step 6: Move from spec to code with discipline
 1. Ask the assistant to tackle the first task only, referencing the spec.
@@ -108,7 +95,6 @@ Here is the exact prompt I used when extending the Scrabble app:
 
 > "Create a spec in `/docs` called `multiple-words.md` for the feature: when a player adds a word that also creates other words (e.g. DIGS making TRACKS), score all words in that turn. Ensure the solution scales to many incidental words. If the work exceeds a day, touches more than five files, or scores above Fibonacci 3, split it into subtasks."
 
-![Slide showing the worked example contextual prompt for Scrabble](/assets/ai-sdd-slide-22.png)
 ![Slide showing the resulting specification output](/assets/ai-sdd-slide-23.png)
 
 The assistant produced user stories, requirements, and Gherkin scenarios, plus a sensible implementation outline. From there I:
@@ -128,6 +114,6 @@ The assistant produced user stories, requirements, and Gherkin scenarios, plus a
 ## Final thoughts
 Specification Driven Development is spec-tacular! 
 
-![Closing slide for the Specification Driven Development talk](/assets/ai-sdd-slide-26.png)
-
 Turns AI from a magic trick into a repeatable method. Give your assistant the right guardrails, own the outputs, and you unlock predictable, maintainable software at pace. Everything is a spec; context is king; and if you experiment with this approach, tell me how it goes so we can compare notes over ~~coffee~~ a seasonal sugary beverage.
+
+![Closing slide for the Specification Driven Development talk](/assets/ai-sdd-slide-26.png)
