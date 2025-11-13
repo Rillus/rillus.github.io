@@ -108,9 +108,6 @@ The assistant produced user stories, requirements, and Gherkin scenarios, plus a
 - **Keep specs evergreen**. Amend them when the plan pivots; never leave a stale document lurking in the repo.
 - **Share learnings**. Drop standout prompts, scripts, or pitfalls into your team rule files so everyone levels up together.
 
-![Slide covering how to course-correct when the code drifts from the spec](/assets/ai-sdd-slide-24.png)
-![Slide summarising the SDD takeaways](/assets/ai-sdd-slide-25.png)
-
 ## Final thoughts
 Specification Driven Development is spec-tacular! 
 
