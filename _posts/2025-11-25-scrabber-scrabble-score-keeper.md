@@ -26,7 +26,7 @@ v0 spat out a Next.js app with Tailwind CSS - exactly what you'd expect from a t
 
 I wanted to add visual indicators for double and triple letter scores - clickable tiles that would cycle through normal, double, and triple states. Simple enough in theory, but v0's model kept fighting me. It refused to extract the letter component into something reusable, preferring instead to duplicate code. After a few rounds of prompt engineering that felt more like negotiation than development, I called it: v0 is great for one-shot prototypes, less so for iterative refinement.
 
-So I downloaded the repo and opened Cursor. The refactor was straightforward: strip out Next.js (Server Side Rendering didn't bring anything to the party, aside from extra complexity), swap Tailwind for SASS using SUIT CSS naming conventions (a personal preference - it's a lot like BEM), and rebuilt the letter component properly. Within an hour, the app was cleaner, more maintainable.
+So I downloaded the repo and opened Cursor. The refactor was straightforward: swap Tailwind for SASS using SUIT CSS naming conventions (a personal preference - it's a lot like BEM), and rebuilt the letter component properly. Within an hour, the app was cleaner, more maintainable.
 
 I also set it up to auto-deploy on Vercel whenever I pushed changes to the repo's `main` branch, so if I needed to play Scrabble, I actually had it live somewhere.
 ## The Slovenian Scrabble test
