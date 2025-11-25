@@ -17,6 +17,7 @@
 - [[2025-01-19-sifi-jalo-bean]]
 - [[2025-02-12-react-hooks]]
 - [[2025-11-11-ai-specification-driven-development]]
+- [[2025-11-12-scrabber-scrabble-score-keeper]]
 - [[2025-11-25-scrabber-scrabble-score-keeper]]
 
 %% End Waypoint %%
