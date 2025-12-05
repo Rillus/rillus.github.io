@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Scrabber: building a Scrabble score keeper with specs and sugar rushes"
-description: "How I used Specification Driven Development to turn a throwaway prompt into a reliable scoreboard for serious Scrabble sessions."
+title: "Scrabber: building a Scrabble score keeper with specs"
+description: How I used Specification Driven Development to turn a throwaway prompt into a reliable scoreboard for serious Scrabble sessions.
 permalink: /scrabber-scrabble-score-keeper/
-tags: [scrabble, side-project, ai, sdd]
+tags:
+  - scrabble
+  - side-project
+  - ai
+  - sdd
 ---
 
 I'm a little addicted to trying out the various AI tools out there to see what each does better or worse, and occasionally people will ask my opinion on such things. When called on to provide on opinion on Vercel's v0, I'd not actually used it for much, and certainly nothing in the areas v0 excels: Next.js applications and prototyping. With 20 minutes until the meeting, I gave it a go.
