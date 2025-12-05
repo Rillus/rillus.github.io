@@ -10,6 +10,8 @@ tags:
   - sdd
 ---
 
+![Scrabber Scrabble scorekeeper app interface](/assets/scrabber-screenshot.png)
+
 I'm a little addicted to trying out the various AI tools out there to see what each does better or worse, and occasionally people will ask my opinion on such things. When called on to provide on opinion on Vercel's v0, I'd not actually used it for much, and certainly nothing in the areas v0 excels: Next.js applications and prototyping. With 20 minutes until the meeting, I gave it a go.
 
 In search of a quick and easy product to develop, I cast my mind back to something I'd previously built quite a few years ago: A Scrabble Scorekeeper app. I'd built this in AngularJS as a way to practice coding with the framework, back when people used AngularJS (somewhere between 2010 and 2015). The app was basic enough: input a word and select double/triple score on the appropriate tile to calculate the score. How would v0 cope with this? And where to start?
