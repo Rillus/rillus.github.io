@@ -50,7 +50,7 @@ Around the same time, I added a few more quality-of-life features: editing turns
 
 ---
 
-The app now lives at [v0-scrabble-score-keeper.vercel.app](https://v0-scrabble-score-keeper.vercel.app/) and is ready for your next Scrabble Game. You can also download/fork/eat the [source code](https://github.com/rillus/scrabber)if that's to your taste.
+The app now lives at [v0-scrabble-score-keeper.vercel.app](https://v0-scrabble-score-keeper.vercel.app/) and is ready for your next Scrabble Game. You can also download/fork/eat the [source code](https://github.com/rillus/scrabber) if that's to your taste.
 ## What’s next on the board?
 The backlog sits right beside the spec so that Future Riley has a roadmap when the next rainy Sunday hits:
 - Save previous games so we can keep a running league table.
@@ -59,12 +59,14 @@ The backlog sits right beside the spec so that Future Riley has a roadmap when t
 - Apply bonuses automatically once the board has coordinates wired up.
 - Track tile counts.
 - Add a Scrabble dictionary, to cal you out for making up words again.
+
 ## SSD for the win
 Scrabber isn’t just a novelty app (although yes, also it's definitely that); it’s the proof that SDD works outside a slide deck. The multi-word feature went from idea to production with guardrails, tests, and documentation in place — no vibe coding required. The rules I set for the assistant inside the project (TDD first, explicit file lists, named subtasks) meant every AI-driven change slotted neatly into the repo.
 ## Fancy a game?
 If you [try Scrabber](https://v0-scrabble-score-keeper.vercel.app/), let me know how it handles your most chaotic games, which features you crave next, and whether you spot any dodgy scoring (I’ll fix it faster than you can swap tiles).
 ## The Product Requirements Doc for Scrabber 
 Here's the spec I generated in Gemini for Scrabber - it even suggested some out of scope features I later realised I needed!
+
 ```
 # Product Requirements Document: Scrabble Score Keeper
 
