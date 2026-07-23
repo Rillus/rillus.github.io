@@ -19,5 +19,6 @@
 - [[2025-11-11-ai-specification-driven-development]]
 - [[2025-11-25-scrabber-scrabble-score-keeper]]
 - [[2025-12-05-free-code-review-prompt]]
+- [[2026-07-23-canon-first-write-a-novel-with-ai]]
 
 %% End Waypoint %%
